@@ -1,0 +1,78 @@
+body {
+    background-color: silver;
+    color: white;
+    padding: 5px;
+}
+
+h1 {
+    background-color: white;
+    color: rgba(0, 0, 0, .5);
+    padding: inherit;
+    text-align: center;
+}
+
+p {
+    padding: 5px;
+    margin: 0px;
+    text-align: center;
+}
+
+p.fourteen {
+    background-color: hsla(240, 100%, 20%, 1);
+}
+
+p.thirteen {
+    background-color: hsla(240, 100%, 25%, 1);
+}
+
+p.twelve {
+    background-color: hsla(240, 100%, 30%, 1);
+}
+
+p.eleven {
+    background-color: hsla(240, 100%, 35%, 1);
+}
+
+p.ten {
+    background-color: hsla(240, 100%, 40%, 1);
+}
+
+p.nine {
+    background-color: hsla(240, 100%, 45%, 1);
+}
+
+p.eight {
+    background-color: hsla(240, 100%, 50%, 1);
+}
+
+p.seven {
+    background-color: hsla(120, 100%, 20%, 1);
+}
+
+p.six {
+    background-color: hsla(0, 100%, 50%, 1);
+}
+
+p.five {
+    background-color: hsla(0, 100%, 45%, 1);
+}
+
+p.four {
+    background-color: hsla(0, 100%, 40%, 1);
+}
+
+p.three {
+    background-color: hsla(0, 100%, 35%, 1);
+}
+
+p.two {
+    background-color: hsla(0, 100%, 30%, 1);
+}
+
+p.one {
+    background-color: hsla(360, 100%, 25%, 1);
+}
+
+p.zero {
+    background-color: hsla(360, 100%, 20%, 1);
+}
