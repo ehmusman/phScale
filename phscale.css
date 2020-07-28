@@ -5,16 +5,28 @@ body {
 }
 
 h1 {
-    background-color: white;
-    color: rgba(0, 0, 0, .5);
     padding: inherit;
     text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    word-spacing: 12px;
+    letter-spacing: 5px;
+    /*vertical-align: text-top;*/
+    background-color: #eeeeee;
+    color: #666666;
+    text-shadow: 2px 2px 0px #000000;
+}
+
+h1::first-letter {
+    font-size: 40px;
 }
 
 p {
     padding: 5px;
     margin: 0px;
     text-align: center;
+    line-height: 20px;
+    text-shadow: 20px, 20px, 20px, black;
 }
 
 p.fourteen {
